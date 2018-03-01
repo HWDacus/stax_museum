@@ -1,2 +1,0 @@
-# stax_museum
-title
